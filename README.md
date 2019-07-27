@@ -1,1 +1,1 @@
-ABC Algorithm sbippet from my undergraduate thessis work.
+ABC Algorithm sbippet from my undergraduate thesis work.
